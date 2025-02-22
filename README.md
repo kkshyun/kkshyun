@@ -2,10 +2,12 @@
 
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkkimsh)](https://solved.ac/kkkimsh)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkimsh)](https://solved.ac/kkkimsh)
 
 <img src="http://mazandi.herokuapp.com/api?handle=kkkimsh&theme=warm"/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkshyun)](https://github.com/kkshyun/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkshyun&theme=dracula)
 
