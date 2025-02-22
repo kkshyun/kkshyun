@@ -7,6 +7,9 @@
 
 <img src="http://mazandi.herokuapp.com/api?handle=kkkimsh&theme=warm"/>
 
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=f8d3f5&height=180&text=Welcome%20to%20Sehyun's%20Github&animation=blinking&fontColor=000000&fontSize=70" />
+    </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
@@ -26,7 +29,8 @@
           <br/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
           </div>
-  </div>
+    </div>
+    
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkshyun&theme=dracula)
 
