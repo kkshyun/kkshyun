@@ -9,17 +9,14 @@
     </div>
 </div>
 
-<br><br> 
-
-<div align="center">
-    <div style="display: flex; justify-content: space-between;">
-        <a href="https://solved.ac/kkkimsh">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkimsh" />
-        </a>
-        <a href="http://mazandi.herokuapp.com/api?handle=kkkimsh&theme=warm">
-            <img src="http://mazandi.herokuapp.com/api?handle=kkkimsh&theme=warm"/>
-        </a>
-    </div>
+<br><br>
+<div style="display: flex; justify-content: left; gap: 20px;">
+    <a href="https://solved.ac/kkkimsh">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkimsh" />
+    </a>
+    <a href="http://mazandi.herokuapp.com/api?handle=kkkimsh&theme=warm">
+        <img src="http://mazandi.herokuapp.com/api?handle=kkkimsh&theme=warm"/>
+    </a>
 </div>
 
 <div style="text-align: left;">
@@ -37,13 +34,4 @@
         <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white">
         <br/><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
         <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white">
-        <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white">
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-        <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=Expo&logoColor=white">
-    </div>
-</div>
-
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; font-family: 'Poppins', sans-serif; font-size: 24px;"> 📊 Most Used Languages </h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkshyun&theme=dracula)
+        <img src="https://img.shields.io/badge/Goog
