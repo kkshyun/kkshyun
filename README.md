@@ -9,11 +9,9 @@
     </div>
 </div>
 
-<!-- 여백 추가 -->
 <br><br>
 
-<!-- 백준 프로필 나란히 배치 (좌측 정렬) -->
-<div style="display: flex; justify-content: left; gap: 20px;">
+<div style="display: flex; justify-content: left; gap: 30px;">
     <a href="https://solved.ac/kkkimsh">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkimsh" />
     </a>
@@ -22,7 +20,6 @@
     </a>
 </div>
 
-<!-- 기술 스택 부분 -->
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; font-family: 'Poppins', sans-serif; font-size: 24px;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;">
