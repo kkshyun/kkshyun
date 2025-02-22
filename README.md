@@ -6,13 +6,18 @@
         💻 숭실대학교 컴퓨터학부 학생입니다. <br>
         🎯 항상 더 나은 개발자가 되기 위해 공부하며, <br>
         🚀 다양한 프로젝트와 협업을 통해 성장하고 있습니다! <br>
-        🔗 GitHub와 백준에서 활동 중입니다. <br>
     </div>
 </div>
 
 <div align="center">
-    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkimsh)](https://solved.ac/kkkimsh) 
-    <img src="http://mazandi.herokuapp.com/api?handle=kkkimsh&theme=warm"/>
+    <div style="display: flex; justify-content: space-between;">
+        <a href="https://solved.ac/kkkimsh">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkimsh" />
+        </a>
+        <a href="http://mazandi.herokuapp.com/api?handle=kkkimsh&theme=warm">
+            <img src="http://mazandi.herokuapp.com/api?handle=kkkimsh&theme=warm"/>
+        </a>
+    </div>
 </div>
 
 <div style="text-align: left;">
