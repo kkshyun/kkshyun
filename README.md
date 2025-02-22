@@ -5,7 +5,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkkimsh)](https://solved.ac/kkkimsh)
 
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/>
+<img src="http://mazandi.herokuapp.com/api?handle={https://solved.ac/kkkimsh}&theme=dark"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkshyun&theme=dracula)
 
