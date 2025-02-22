@@ -4,8 +4,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkimsh)](https://solved.ac/kkkimsh)
 
 <img src="http://mazandi.herokuapp.com/api?handle=kkkimsh&theme=warm"/>
-<div align= "center">
-    </div>
+
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
@@ -24,9 +23,9 @@
           <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
-        
           </div>
     </div>
+    
     
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkshyun&theme=dracula)
