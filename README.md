@@ -4,7 +4,6 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkimsh)](https://solved.ac/kkkimsh)
 
 <img src="http://mazandi.herokuapp.com/api?handle=kkkimsh&theme=warm"/>
-
 <div align= "center">
     </div>
     <div style="text-align: left;"> 
@@ -13,7 +12,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white">
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
