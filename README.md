@@ -1,14 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B7D4&width=435&lines=Welcome+to+Sehyun's+Github)](https://git.io/typing-svg)
 
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkimsh)](https://solved.ac/kkkimsh)
 
 <img src="http://mazandi.herokuapp.com/api?handle=kkkimsh&theme=warm"/>
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=f8d3f5&height=180&text=Welcome%20to%20Sehyun's%20Github&animation=blinking&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
