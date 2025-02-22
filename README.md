@@ -44,6 +44,7 @@
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; font-family: 'Poppins', sans-serif; font-size: 24px;"> 📊 Most Used Languages </h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkshyun&theme=dracula&bg_color=transparent&title_color=282d33&text_color=282d33&border_color=F7B7D4&border_width=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkshyun&theme=dracula&bg_color=transparent&title_color=282d33&text_color=282d33&border_color=F7B7D4&border_width=20)
+
 
 
