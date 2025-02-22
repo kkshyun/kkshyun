@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B7D4&width=435&lines=Welcome+to+Sehyun's+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B7D4&width=435&lines=Welcome+to+Sehyun's+Github!!)](https://git.io/typing-svg)
 
 <div align="left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; font-family: 'Poppins', sans-serif; font-size: 24px;"> 🙋‍♀️ 자기소개 </h2>  
