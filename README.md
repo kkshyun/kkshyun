@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B7D4&width=435&lines=Welcome+to+Sehyun's+Github+🎀)](https://git.io/typing-svg)
 
+<!--
 <div align="left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; font-family: 'Poppins', sans-serif; font-size: 24px;"> 🙋‍♀️ 자기소개 </h2>  
     <div style="font-weight: 700; font-size: 18px; text-align: left; color: #282d33; font-family: 'Poppins', sans-serif;"> 
@@ -8,6 +9,7 @@
         🚀 다양한 프로젝트와 협업을 통해 성장하고 있습니다! <br>
     </div>
 </div>
+-->
 
 <br><br>
 
@@ -15,9 +17,11 @@
     <a href="https://solved.ac/kkkimsh">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkimsh" />
     </a>
+    <!--
     <a href="http://mazandi.herokuapp.com/api?handle=kkkimsh&theme=warm">
         <img src="http://mazandi.herokuapp.com/api?handle=kkkimsh&theme=warm"/>
     </a>
+    -->
 </div>
 
 <div style="text-align: left;">
