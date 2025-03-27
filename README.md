@@ -3,14 +3,14 @@
 <div align="left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; font-family: 'Poppins', sans-serif; font-size: 24px;"> 🙋‍♀️ 자기소개 </h2>  
     <div style="font-weight: 700; font-size: 18px; text-align: left; color: #282d33; font-family: 'Poppins', sans-serif;"> 
-        💻 숭실대학교 컴퓨터학부에서 공부하고 있습니다. <br>
-        📌 새로운 기술을 배우고, 다양한 프로젝트를 통해 경험을 쌓고 있습니다. <br>
-        🚀 효율적인 개발과 협업을 중요하게 생각하며 성장하고 있습니다. <br>
+        💻 숭실대학교 컴퓨터학부 학생입니다. <br>
+        🎯 항상 더 나은 개발자가 되기 위해 공부하며, <br>
+        🚀 다양한 프로젝트와 협업을 통해 성장하고 있습니다! <br>
     </div>
-</div>
+</div> 
+<br>
 
 
-<br><br>
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
     <a href="https://solved.ac/kkkimsh">
